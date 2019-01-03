@@ -1,6 +1,5 @@
 package com.travis.springboot.demo.coolapp.rest;
 
-import com.travis.springboot.demo.coolapp.dao.EmployeeDAO;
 import com.travis.springboot.demo.coolapp.entity.Employee;
 import com.travis.springboot.demo.coolapp.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
